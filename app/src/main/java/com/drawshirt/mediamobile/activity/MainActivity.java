@@ -57,7 +57,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected void initData(String content) {
-
+        //初始化
         AppConnect.getInstance("03dae6f7698e2cbb6438692a7f0764cd", "360", this);
 
 
