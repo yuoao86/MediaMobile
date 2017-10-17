@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_bg.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\title_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\item_bg.9.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\item_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\handle_up.9.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\handle_up.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\detail_bg.9.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\detail_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down_ico.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\down_ico.png"
+    },
+    {
+        "merged": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\handle_down.9.png",
+        "source": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\drawable-hdpi\\handle_down.9.png"
+    }
+]

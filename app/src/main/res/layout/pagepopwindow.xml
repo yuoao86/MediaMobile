@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/popup_view_cont"
+                android:layout_width="200.0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popmenu_bg"
+                android:orientation="vertical"
+                android:paddingBottom="8.0dp"
+                android:paddingLeft="8.0dp"
+                android:paddingRight="8.0dp"
+                android:paddingTop="16.0dp">
+
+    <GridView
+        android:id="@+id/view_select_grid"
+        android:layout_width="match_parent"
+        android:layout_height="160.0dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:horizontalSpacing="6dp"
+        android:numColumns="4"
+        android:verticalSpacing="6dp"/>
+
+</RelativeLayout>

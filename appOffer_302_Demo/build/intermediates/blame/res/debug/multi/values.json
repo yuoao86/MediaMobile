@@ -1,0 +1,334 @@
+[
+    {
+        "outputFile": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 363,
+                        "endColumn": 54,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 49,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 49,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 46,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 56,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 56,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 51,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 51,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 39,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 39,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 47,
+                    "endOffset": 889
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 47,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 894,
+                    "endColumn": 45,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 45,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 51,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 51,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 51,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 51,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 44,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 44,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 52,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 52,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 39,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 39,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 53,
+                    "endOffset": 1231
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 53,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1236,
+                    "endColumn": 56,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 56,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endLine": 30,
+                    "endColumn": 8,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 420,
+                        "endLine": 27,
+                        "endColumn": 8,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endLine": 41,
+                    "endColumn": 8,
+                    "endOffset": 2184
+                },
+                "from": {
+                    "file": "E:\\workspace\\MediaMobile\\appOffer_302_Demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 52,
+                        "endLine": 13,
+                        "endColumn": 8,
+                        "endOffset": 361
+                    }
+                }
+            }
+        ]
+    }
+]

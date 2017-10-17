@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/popup_view_cont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popmenu_bg"
+                android:orientation="vertical"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:paddingBottom="8.0dp"
+                android:paddingTop="16.0dp"
+                >
+
+    <LinearLayout
+        android:id="@+id/bagpanelpage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        >
+
+        <HorizontalScrollView
+            android:id="@+id/horizontalScrollViewType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_home_title"
+            android:fillViewport="true"
+            android:scrollbars="none"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/myGalleryType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                />
+        </HorizontalScrollView>
+
+        <HorizontalScrollView
+            android:id="@+id/horizontalScrollViewArea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_home_title"
+            android:fillViewport="true"
+            android:scrollbars="none"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/myGalleryArea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                />
+        </HorizontalScrollView>
+
+        <HorizontalScrollView
+            android:id="@+id/horizontalScrollViewActor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_home_title"
+            android:fillViewport="true"
+            android:scrollbars="none"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/myGalleryActor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                />
+        </HorizontalScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

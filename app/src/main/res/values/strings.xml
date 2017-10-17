@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">播播影视</string>
+    <string name="tip_network">亲，网络异常，请检查网络哦！</string>
+    <string name="loading">正在加载...</string>
+    <string name="no_vide_file">没有影音文件</string>
+    <string name="sd_shared">请您先退出USB模式,再运行该应用</string>
+    <string name="duration_tag">影片时长:</string>
+    <string name="button_ok">确定</string>
+    <string name="sd_unmounted">SD卡未加载到手机</string>
+    <string name="sd_removed">未找到SD卡</string>
+    <string name="sd_noinsert">未找到SD卡</string>
+
+    <string name="secondbefore">秒前</string>
+    <string name="minutebefore">分钟前</string>
+    <string name="hoursbefore">小时前</string>
+
+    <string name="tip">提示</string>
+    <string name="deleteallhistory">删除所有观看历史？</string>
+    <string name="queren">确认</string>
+    <string name="cancel">取消</string>
+</resources>

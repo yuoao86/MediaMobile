@@ -1,0 +1,24 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "cn.waps.d302"
+        minSdkVersion 4
+        targetSdkVersion 4
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/android-support-v13.jar')
+    compile files('libs/AppOffer_3.0.2.jar')
+}

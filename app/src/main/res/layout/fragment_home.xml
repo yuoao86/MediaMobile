@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/black"
+              android:focusableInTouchMode="true"
+              android:orientation="vertical">
+
+    <com.drawshirt.mediamobile.view.MainTitlebar
+        android:id="@+id/main_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp">
+
+                <com.youth.banner.Banner
+                    android:id="@+id/banner_home"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"/>
+            </FrameLayout>
+
+
+            <!--预告片电影模块-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_home_title"
+                android:gravity="center_vertical"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="【新片预告】"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+
+            </RelativeLayout>
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_net_movie"
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"/>
+
+
+
+            <!--电影模块-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_home_title"
+                android:gravity="center_vertical"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="【电影】"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/recommendMoreMovie"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="更多"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_movie"
+                android:layout_width="match_parent"
+                android:layout_height="345dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"/>
+
+
+            <!--电视剧模块-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_home_title"
+                android:gravity="center_vertical"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="【电视剧】"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/recommendMoreTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="更多"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_tvplay"
+                android:layout_width="match_parent"
+                android:layout_height="345dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"/>
+
+
+            <!--综艺模块-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_home_title"
+                android:gravity="center_vertical"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="【综艺】"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/recommendMoreZy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="更多"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/gridviewZy"
+                android:layout_width="match_parent"
+                android:layout_height="345dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"/>
+
+
+            <!--动漫模块-->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_home_title"
+                android:gravity="center_vertical"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="【动漫】"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/recommendMoreDm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="5dp"
+                    android:text="更多"
+                    android:textColor="@color/common_white_color"
+                    android:textSize="18sp"/>
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/gridviewDm"
+                android:layout_width="match_parent"
+                android:layout_height="345dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

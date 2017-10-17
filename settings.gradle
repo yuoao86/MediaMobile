@@ -1,0 +1,2 @@
+include ':app', ':vitamio-sample', ':vitamio'
+include ':appOffer_302_Demo'

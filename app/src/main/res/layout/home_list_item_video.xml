@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="10dp"
+    android:gravity="center_horizontal"
+    >
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="135dp"
+        android:background="@android:color/white">
+        <ImageView
+            android:id="@+id/iv_video_photo"
+            android:scaleType="fitXY"
+            android:layout_margin="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:id="@+id/tv_video_rating"
+            android:layout_margin="8dp"
+            android:layout_alignBottom="@+id/iv_video_photo"
+            android:text="7.6分"
+            android:textSize="13sp"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/tv_video_title"
+        android:text="独裁者"
+        android:textSize="13sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
